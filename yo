@@ -9,8 +9,6 @@
             "title": "1",
             "volume": "<optional, str>",
             "groups": {
-                "<group name>": "<proxy url>",
-                OR
                 "<group name>": [
                     "https://cubari.moe/static/img/gmprj.png",
                     "https://cubari.moe/static/img/gmprj.png",
