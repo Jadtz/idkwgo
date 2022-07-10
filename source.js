@@ -370,7 +370,7 @@ class Guya extends paperback_extensions_common_1.Source {
                     mangas.push(createManga({
                         id: seriesDetails["slug"],
                         titles: [series],
-                        image: `${GUYA_API_BASE}/${seriesDetails["cover"]}`,
+                        image:  seriesDetails["cover"],
                         rating: 5,
                         status: paperback_extensions_common_1.MangaStatus.ONGOING,
                         artist: seriesDetails["artist"],
