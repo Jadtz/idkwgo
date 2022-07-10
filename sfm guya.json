@@ -18,64 +18,6 @@
         },
         "last_updated": 1657267869
     },
-    "Kaguya Wants To Be Confessed To Official Doujin": {
-        "author": "Sakayama Shinta",
-        "artist": "Sakayama Shinta",
-        "description": "\"Kaguya Wants to Be Confessed to\" is a manga about “the war of love and brains” between two high school geniuses who try to make the other confess. This, however, is an \"ero spinoff\" that’ll make you wish it were part of the main series!",
-        "slug": "Kaguya-Wants-To-Be-Confessed-To-Official-Doujin",
-        "cover": "/media/manga/Kaguya-Wants-To-Be-Confessed-To-Official-Doujin/volume_covers/4/04.png",
-        "groups": {
-            "1": "Psylocke Scans",
-            "2": "/a/nonymous",
-            "3": "Fans Scans | Jaimini's~Box~",
-            "4": "NotJag",
-            "5": "Ai's fanclub",
-            "6": "The Corporation | potatofoodscans",
-            "7": "Zaibatsu",
-            "8": "tsukinara",
-            "9": "Black Cat Scanlations"
-        },
-        "last_updated": 1593901085
-    },
-    "Original Hinatazaka": {
-        "author": "Kosaka Nao",
-        "artist": "Aka Akasaka",
-        "description": "A three-chapter weekly series featuring members of Hinatazaka 46.",
-        "slug": "Original-Hinatazaka",
-        "cover": "/media/manga/Original-Hinatazaka/volume_covers/1/01.png",
-        "groups": {
-            "1": "Psylocke Scans",
-            "2": "/a/nonymous",
-            "3": "Fans Scans | Jaimini's~Box~",
-            "4": "NotJag",
-            "5": "Ai's fanclub",
-            "6": "The Corporation | potatofoodscans",
-            "7": "Zaibatsu",
-            "8": "tsukinara",
-            "9": "Black Cat Scanlations"
-        },
-        "last_updated": 1617831992
-    },
-    "Oshi no Ko": {
-        "author": "Aka Akasaka",
-        "artist": "Yokoyari Mengo",
-        "description": "The story begins with a beautiful girl, her perfectly fake smile, and the people who love her selfishly for it.\r\n\r\nWhat transpires behind the scenes of the glittering showbiz industry? How far would you go for the sake of your beloved idol? What would you do if you found out reincarnation was real? The star of the show is Aquamarine Hoshino and the stage is but a mere facade. Will he manage to reach the climax before the world of glamour swallows him whole?",
-        "slug": "Oshi-no-Ko",
-        "cover": "/media/manga/Oshi-no-Ko/volume_covers/8/98850.jpg",
-        "groups": {
-            "1": "Psylocke Scans",
-            "2": "/a/nonymous",
-            "3": "Fans Scans | Jaimini's~Box~",
-            "4": "NotJag",
-            "5": "Ai's fanclub",
-            "6": "The Corporation | potatofoodscans",
-            "7": "Zaibatsu",
-            "8": "tsukinara",
-            "9": "Black Cat Scanlations"
-        },
-        "last_updated": 1656653326
-    },
-
     "My Test Manga": {
         "author": "Jad",
         "artist": "Modi",
@@ -108,5 +50,38 @@
             "9": "Black Cat Scanlations"
         },
         "last_updated": 1656761724
+    },
+    "A Matter of Time": {
+        "author": "Ha Yangji",
+        "artist": "Ha Yangji",
+        "description": "When her mom gets a new boyfriend, 19-year-old Soohyun decides to move out. In a stroke of luck, her college classmate Yujin offers for her to move in for free, no strings attached. But Yujin has a hidden motive... Will her secret affect their dynamic as roommates?",
+        "slug": "1689",
+        "cover": "https://static.manta.net/2022-01-20/eF/eF9CUsTQYA3ilH4F.jpg",
+        "groups": {
+            "1": "Manta Comics"
+        },
+        "last_updated": "2022-06-28T05:34:52.044Z"
+    },
+    "Lady Beast": {
+        "author": "Swan",
+        "artist": "NOW",
+        "description": "To escape her miserable life, the quiet Princess Elisa agrees to an arranged marriage with the war tyrant, Duke Ginger of Randell Kingdom. However, an evil curse suddenly causes them to switch bodies! Can these two opposites learn to understand each other and maybe even find love?",
+        "slug": "1681",
+        "cover": "https://static.manta.net/2021-11-08/sS/sSVCYNC2FEsXEtdj.jpg",
+        "groups": {
+            "1": "Manta Comics"
+        },
+        "last_updated": "2022-07-08T08:36:16.810Z"
+    },
+    "Meat Humans": {
+        "author": "Moraeingan",
+        "artist": "Hayandol",
+        "description": "When all is destroyed, will you persist? Or will you give in to the gray abyss? In a dystopian world, both the gifted and the wretched are making their last attempts at survival. Their struggles are fierce, and their desperation palpable as they work toward one common goal — to survive.",
+        "slug": "1283",
+        "cover": "https://static.manta.net/2021-03-28/ew/ewIr7ykDt2gdgtan.jpg",
+        "groups": {
+            "1": "Manta Comics"
+        },
+        "last_updated": "2022-05-29T17:26:46.142Z"
     }
 }
